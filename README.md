@@ -106,7 +106,7 @@ CareerGuard/
 
 ## 🌐 Live Demo
 
-Experience the live application deployed on the cloud: [CareerGuard Live Platform]([https://careerguard-kxvp.onrender.com/](https://careerguard-kxvp.onrender.com/)*
+Experience the live application deployed on the cloud: [CareerGuard Live Platform](https://careerguard-kxvp.onrender.com/)
 
 ---
 
@@ -126,17 +126,14 @@ This project is open-source and available under the [MIT License](https://www.go
 
 ```
 
-### Step 3: File Save karo
-* Paste karne ke baad apne keyboard par **`Ctrl + S`** dabao taaki file save ho jaye (tabhi file ke upar ka chhota dot gayab hoga).
-
 ---
 
-### Step 4: Terminal mein commands chala do
-Ab VS Code ka terminal kholo aur yeh teeno commands ek-ek karke ya ek sath copy karke chala do:
+### Terminal Commands (Push karne ke liye):
+Apne VS Code terminal mein yeh commands run kar do taaki GitHub par live URL update ho jaye:
 
 ```bash
 git add README.md
-git commit -m "docs: populate comprehensive professional README.md"
+git commit -m "docs: update live demo URL in README"
 git push origin main
 
 ```
