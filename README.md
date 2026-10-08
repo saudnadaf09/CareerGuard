@@ -106,7 +106,7 @@ CareerGuard/
 
 ## 🌐 Live Demo
 
-Experience the live application deployed on the cloud: [CareerGuard Live Platform](https://www.google.com/search?q=%23) *(Live URL will be updated here after Render deployment)*
+Experience the live application deployed on the cloud: [CareerGuard Live Platform](https://www.google.com/search?q=%23) *(https://careerguard-kxvp.onrender.com/)*
 
 ---
 
